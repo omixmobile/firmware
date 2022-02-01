@@ -10,3 +10,6 @@
  #### You can access the tools and drivers for MediaTek here.
 - [Flash Tool](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/MediaTek/SP_MDT_v3.2048.zip) 
 - [Driver](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/MediaTek/DriverInstall.exe) 
+ #### You can access the tools and drivers for Spreadtrum here.
+- [Flash Tool](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/Spreadtrum/UpgradeDownload_R24.0.0003.zip) 
+- [Driver](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/Spreadtrum/Driver_R4.20.0901.zip) 
