@@ -16,4 +16,5 @@
 | Rear Camera 4           | 2 MP, F/2.4                                            |
 | Front Camera            | 8 MP, F/2.0                           |
 | Fingerprint             | Rear-mounted 
-| Firmware               |  [OMIX UI 11.3 for X300_4GB](https://github.com/omixmobile/firmware/releases/tag/V11.3.0_X300_4GB)   | 
+| Firmware                |  [OMIX UI 11.3 for X300_4GB](https://github.com/omixmobile/firmware/releases/tag/V11.3.0_X300_4GB)   |
+| Source                  |  [Kernel Code](https://github.com/omixmobile/omix_x300_kernel)   |  

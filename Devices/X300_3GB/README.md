@@ -1,4 +1,4 @@
-| Device                 | OMIX X300 3GB                                              |
+| Device                  | OMIX X300 3GB                                              |
 | :---------------------- | :---------------------------------------------------------------|
 | Chipset                 | MediaTek Helio G80                       |
 | CPU                     | Octa-Core 2.0GHz 8 Cores
@@ -16,4 +16,5 @@
 | Rear Camera 4           | 2 MP, F/2.4                                            |
 | Front Camera            | 8 MP, F/2.0                           |
 | Fingerprint             | Rear-mounted 
-| Firmware               |  [OMIX UI 11.3 for X300_3GB](https://github.com/omixmobile/firmware/releases/tag/V11.3.0_X300_3GB)   | 
+| Firmware                |  [OMIX UI 11.3 for X300_3GB](https://github.com/omixmobile/firmware/releases/tag/V11.3.0_X300_3GB)   | 
+| Source                  |  [Kernel Code](https://github.com/omixmobile/omix_x300_kernel)   | 
