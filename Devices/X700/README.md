@@ -5,11 +5,11 @@
 | GPU                     | Mali-G76 MC4                                           |
 | Memory                  | 8 GB                                                        |
 | Shipped Android Version |Android 12 (OMIX UI 12.1)                                                   
-| Storage                 | 128/256 GB                                        |
+| Storage                 | 128GB eMMC / 256 GB UFS                                    |
 | SIM                     | Dual SIM                             |
 | MicroSD                 | Supported                                                    |
 | Battery                 | 5000 mAh Li-Po (non-removable)                                  |
-| Display                 | 6.43 inch, IPS 1080x2460 (FHD+)
+| Display                 | 6.43 inch, AMOLED (FHD+)
 | Rear Camera 1           | 64 MP, F/1.79                  |
 | Rear Camera 2           | 8 MP, F/2.2                  |
 | Rear Camera 3           | 5 MP, F/2.4                      |
