@@ -17,3 +17,4 @@
 | Front Camera            | 16 MP, F/2.0                           |
 | Fingerprint             | Rear-mounted 
 | Firmware               |  [OMIX UI 11.3 for X500_4GB](https://github.com/omixmobile/firmware/releases/tag/V11.3.0_X500_4GB)   | 
+| Source                  |  [Kernel Code](https://github.com/omixmobile/omix_x500_kernel)   |  
