@@ -13,4 +13,4 @@
 | Front Camera            | 5 MP                         |
 | Fingerprint             | No 
 | Other keys          | Google Assistant Key
-| Firmware               |  [MixTab Pro Latest Firmware](https://github.com/omixmobile/firmware/releases/tag/R.MixTab_Pro.2110A-September)   | 
+| Firmware               |  [MixTab Pro Latest Firmware](https://github.com/omixmobile/firmware/releases/tag/R.MixTab_Pro.2210A-October)   | 
