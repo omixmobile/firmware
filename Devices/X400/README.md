@@ -15,5 +15,5 @@
 | Rear Camera 3           | 2 MP, F/2.4                      |
 | Front Camera            | 16 MP, F/2.2                           |
 | Fingerprint             | Rear-mounted 
-| Firmware                |  [OMIX UI 11.4 for X400](https://github.com/omixmobile/firmware/releases/tag/V11.4.0_X400)   | 
+| Firmware                |  [OMIX UI 11.4 for X400](https://github.com/omixmobile/firmware/releases/tag/V11.4.2_X400)   | 
 | Source                  |  [Kernel Code](https://github.com/omixmobile/omix_x400_kernel)   | 
