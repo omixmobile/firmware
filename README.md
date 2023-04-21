@@ -11,7 +11,7 @@
 - [OMIX X700](https://github.com/omixmobile/firmware/tree/main/Devices/X700)
 - [OMIX MixTab_Pro](https://github.com/omixmobile/firmware/tree/main/Devices/MixTab_Pro) 
  #### You can access the tools and drivers for MediaTek here.
-- [Flash Tool](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/MediaTek/SP_MDT_v3.2048.zip) 
+- [Flash Tool](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/MediaTek/SP_Flash_Tool_v5.2228_Win.zip) 
 - [Driver](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/MediaTek/DriverInstall.exe) 
  #### You can access the tools and drivers for Spreadtrum here.
 - [Flash Tool](https://github.com/omixmobile/firmware/blob/main/Driver%20%26%20Tools/Spreadtrum/UpgradeDownload_R24.0.0003.zip) 
